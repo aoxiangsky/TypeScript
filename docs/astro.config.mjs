@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '重学TypeScript',
+			title: 'TypeScript',
 			social: {
 				github: 'https://github.com/aoxiangsky/TypeScript',
 			},
